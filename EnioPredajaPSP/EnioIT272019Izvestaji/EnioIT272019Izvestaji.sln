@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "EnioIT272019Izvestaji", "EnioIT272019Izvestaji\EnioIT272019Izvestaji.rptproj", "{4F801A39-5655-45B7-8D26-EC5191181D65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F801A39-5655-45B7-8D26-EC5191181D65}.Debug|Default.ActiveCfg = Debug
+		{4F801A39-5655-45B7-8D26-EC5191181D65}.Debug|Default.Build.0 = Debug
+		{4F801A39-5655-45B7-8D26-EC5191181D65}.Debug|Default.Deploy.0 = Debug
+		{4F801A39-5655-45B7-8D26-EC5191181D65}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{4F801A39-5655-45B7-8D26-EC5191181D65}.DebugLocal|Default.Build.0 = DebugLocal
+		{4F801A39-5655-45B7-8D26-EC5191181D65}.Release|Default.ActiveCfg = Release
+		{4F801A39-5655-45B7-8D26-EC5191181D65}.Release|Default.Build.0 = Release
+		{4F801A39-5655-45B7-8D26-EC5191181D65}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {134BC413-B472-49EB-8BF8-386CC911F8C1}
+	EndGlobalSection
+EndGlobal

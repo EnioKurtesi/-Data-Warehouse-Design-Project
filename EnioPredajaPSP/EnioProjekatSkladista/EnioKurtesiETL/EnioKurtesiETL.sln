@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "EnioKurtesiETL", "EnioKurtesiETL\EnioKurtesiETL.dtproj", "{51DFD566-C4BF-4168-ADB7-EDE761E5819A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51DFD566-C4BF-4168-ADB7-EDE761E5819A}.Development|Default.ActiveCfg = Development
+		{51DFD566-C4BF-4168-ADB7-EDE761E5819A}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C9F4F40-E553-4E94-A039-642DCA54D561}
+	EndGlobalSection
+EndGlobal

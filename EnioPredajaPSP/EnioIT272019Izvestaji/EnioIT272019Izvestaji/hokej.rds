@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="hokej">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=147.91.175.176;Initial Catalog=it27g2019</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>f41c81b2-87f6-48db-8916-8d364872d6b8</DataSourceID>
+</RptDataSource>
